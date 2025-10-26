@@ -6,4 +6,8 @@ typedef struct main
     char ch[MaxSize];
     int length;
 }SString;
+int main(){
+    SString S;
+    
+}
 
